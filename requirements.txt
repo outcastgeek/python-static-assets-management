@@ -1,0 +1,11 @@
+
+#dependencies for static content management
+requests
+webassets
+closure
+yuicompressor
+jsmin
+slimmer
+cssutils
+cssmin
+
